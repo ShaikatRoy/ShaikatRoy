@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaikatRoy
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me ( shaikatroy258@gmail.com )
 
 <!---
