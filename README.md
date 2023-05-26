@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **JavaScript, Node.js, and other full-stack tools.**
 
-- 👨‍💻 All of my projects are available at [https://www.showwcase.com/shaikatroy258170](https://www.showwcase.com/shaikatroy258170)
+- 👨‍💻 All of my projects are available at [SHOWCHASE PORTFOILO](https://www.showwcase.com/shaikatroy258170)
 
-- 📝 I regularly write articles on [https://medium.com/@shaikatroy258/common-mistakes-made-by-beginner-programmers-e8dad2305d8](https://medium.com/@shaikatroy258/common-mistakes-made-by-beginner-programmers-e8dad2305d8)
+- 📝 I regularly write articles on [MEDIUM PROFILE](https://medium.com/@shaikatroy258/common-mistakes-made-by-beginner-programmers-e8dad2305d8)
 
 - 💬 Ask me about **react, MERN, js**
 
