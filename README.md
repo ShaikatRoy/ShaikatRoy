@@ -1,7 +1,7 @@
-[![MasterHead](https://www.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_15329611.htm#page=2&query=programming&position=18&from_view=search&track=sph)](https://rishavchanda.io)
+![MasterHead](https://www.crio.do/blog/content/images/size/w1600/2021/04/Full-stack-web-developer.png)
 <h1 align="center">Hi 👋, I'm Shaikat Roy</h1>
 <h3 align="center">A Junior web developer with a passion for coding, a knack for problem-solving, and a drive to create captivating user experiences.</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.html">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/3S73xWm/06f21a161921919-63cd7887d0a70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikatroy&label=Profile%20views&color=0e75b6&style=flat" alt="shaikatroy" /> </p>
 
@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@shaikatroy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shaikatroy12" height="30" width="40" /></a>
+<a href="https://twitter.com/shaikatroy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shaikatroy12" height="30" width="40" /></a>
 <a href="https://fb.com/shaikat roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaikat roy" height="30" width="40" /></a>
 <a href="https://instagram.com/shaikat_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaikat_roy" height="30" width="40" /></a>
 <a href="https://medium.com/@shaikatroy258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shaikatroy258" height="30" width="40" /></a>
