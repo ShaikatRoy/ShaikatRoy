@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shaikatroy258@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QeUXqVWdAqUKKZNLXO9lISZYJe5Vxdl_/view?usp=share_link](https://drive.google.com/file/d/1QeUXqVWdAqUKKZNLXO9lISZYJe5Vxdl_/view?usp=share_link)
+- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1QeUXqVWdAqUKKZNLXO9lISZYJe5Vxdl_/view?usp=share_link)
 
 - ⚡ Fun fact **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
 
