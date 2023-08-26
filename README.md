@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/@shaikatroy12" target="blank"><img src="https://img.shields.io/twitter/follow/@shaikatroy12?logo=twitter&style=for-the-badge" alt="@shaikatroy12" /></a> </p>
 
-- 🔭 I’m currently working on **bistro-boss**
+- 🔭 I’m currently working on **Hospital-management**
 
-- 🌱 I’m currently learning **JavaScript, Node.js, and other full-stack tools.**
+- 🌱 I’m currently learning **Typescript, Redux and Next.js**
 
-- 👨‍💻 All of my projects are available at [SHOWCHASE PORTFOILO](https://www.showwcase.com/shaikatroy258170)
+- 👨‍💻 All of my projects are available at [PORTFOILO](https://personal-3d-portfolio.web.app/)
 
 - 📝 I regularly write articles on [MEDIUM PROFILE](https://medium.com/@shaikatroy258/common-mistakes-made-by-beginner-programmers-e8dad2305d8)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shaikatroy258@gmail.com**
 
-- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1QeUXqVWdAqUKKZNLXO9lISZYJe5Vxdl_/view?usp=share_link)
+- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1Arirr163MNWijs6v5uEF7q0kjR8E3E2c/view?usp=sharing)
 
 - ⚡ Fun fact **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
 
